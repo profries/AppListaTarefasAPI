@@ -1,0 +1,44 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "tarefa": "Tarefa 1",
+      "selecionado": false
+    },
+    {
+      "id": 2,
+      "tarefa": "Tarefa 2",
+      "selecionado": false
+    },
+    {
+      "id": 3,
+      "tarefa": "Tarefa 3",
+      "selecionado": false
+    },
+    {
+      "id": 4,
+      "tarefa": "Tarefa 4",
+      "selecionado": false
+    },
+    {
+      "id": 5,
+      "tarefa": "Tarefa 5",
+      "selecionado": false
+    },
+    {
+      "id": 6,
+      "tarefa": "Tarefa 6",
+      "selecionado": false
+    },
+    {
+      "tarefa": "Tarefa 7",
+      "selecionado": false,
+      "id": 7
+    },
+    {
+      "tarefa": "Tarefa 7",
+      "selecionado": false,
+      "id": 8
+    }
+  ]
+}
